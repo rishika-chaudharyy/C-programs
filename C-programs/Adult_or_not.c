@@ -1,4 +1,4 @@
-//Write a rpogram to input age and check if adult or not
+//Write a program to input age and check if adult or not
 
 #include<Stdio.h>
 int main() {

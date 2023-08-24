@@ -1,4 +1,4 @@
-//Write a program yo calculate the volume of the cube
+//Write a program to calculate the volume of the cube
 
 #include<stdio.h>
 int main() {
