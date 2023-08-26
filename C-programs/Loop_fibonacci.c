@@ -1,4 +1,4 @@
-//Write a rpogram to print fibonacci using loop
+//Write a program to print fibonacci using loop
 
 #include <stdio.h>
 
